@@ -32,10 +32,13 @@ Si escribes *palabra* en Slack, se vuelve negrita, Si usas el acento grave `codi
 ### Ventajas
 Simplicidad y enfoque: Solo necesitas aprender 4 o 5 simbolos basicos para empezar de forma profesional.
                        Puedes dar formato a todo el documento sin despegar los dedos del teclado.
+                       
 Longevidad y portabilidad: Se escribe en un archivo .txt, lo que quiere decir que es un texto plano.
                            Pruedes empezar a escribir una nota en tu telefono movil, edtarla en un Mac y acabar de hacerla en un ordenador con Linux sin preocuparte de que te salten errores de compatibilidad.
+                           
 Versatibilidad tecnica: Se puede transformar facilmente a casi cualquier formato: HTML(paginas web), PDF, ePub(libros electronicos) o PPT(presentaciones).
                         Para programadores es ideal porque permite ver exactamente que palabra se cambio en un documento usando herramientas como Git.
+                        
 Peso y rendimiento: Un documento de 10 paginas en Markdown ocupa apenas unos pocos Kilobytes, mientras que otros procesadores de texto podrian pesar Megabytes.
                     Cualquier aplicacion que use Markdown carga de orma instantanea los archivos, sin importar si tienes cioentos o miles de notas.
 
