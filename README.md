@@ -33,26 +33,26 @@ Si escribes *palabra* en Slack, se vuelve negrita, Si usas el acento grave `codi
 Simplicidad y enfoque: Solo necesitas aprender 4 o 5 simbolos basicos para empezar de forma profesional.
                        Puedes dar formato a todo el documento sin despegar los dedos del teclado.
 Longevidad y portabilidad: Se escribe en un archivo .txt, lo que quiere decir que es un texto plano.
-                           Pruedes empezar a escribir una nota en tu telefono movil, edtarla en un Mac y acabar de hacerla en                            un ordenador con Linux sin preocuparte de que te salten errores de compatibilidad.
-Versatibilidad tecnica: Se puede transformar facilmente a casi cualquier formato: HTML(paginas web), PDF, ePub(libros                                 electronicos) o PPT(presentaciones).
-                        Para programadores es ideal porque permite ver exactamente que palabra se cambio en un documento                               usando herramientas como Git.
-Peso y rendimiento: Un documento de 10 paginas en Markdown ocupa apenas unos pocos Kilobytes, mientras que otros procesadores                     de texto podrian pesar Megabytes.
-                    Cualquier aplicacion que use Markdown carga de orma instantanea los archivos, sin importar si tienes                          cioentos o miles de notas.
+                           Pruedes empezar a escribir una nota en tu telefono movil, edtarla en un Mac y acabar de hacerla en un ordenador con Linux sin preocuparte de que te salten errores de compatibilidad.
+Versatibilidad tecnica: Se puede transformar facilmente a casi cualquier formato: HTML(paginas web), PDF, ePub(libros electronicos) o PPT(presentaciones).
+                        Para programadores es ideal porque permite ver exactamente que palabra se cambio en un documento usando herramientas como Git.
+Peso y rendimiento: Un documento de 10 paginas en Markdown ocupa apenas unos pocos Kilobytes, mientras que otros procesadores de texto podrian pesar Megabytes.
+                    Cualquier aplicacion que use Markdown carga de orma instantanea los archivos, sin importar si tienes cioentos o miles de notas.
 
 ### Desventajas
-Falta de estandar unico: El problema es que un documento que se ve perfecto en GitHub puede no verse igual en Notion o en                              Obsidian
+Falta de estandar unico: El problema es que un documento que se ve perfecto en GitHub puede no verse igual en Notion o en Obsidian
 
 No es "Lo que ves, es lo que tienes": Aunque escribas un codigo, siempre se vera como un texto plano.
-                                      Para ver el diseño fianl, necesitas un editor que tenga Modo de previsualizacion o                                            Vista de lectura.
+                                      Para ver el diseño fianl, necesitas un editor que tenga Modo de previsualizacion o Vista de lectura.
 
 Control de diseño muy limitado: No puedes cambiar facilmente el color de una palabra en especifico.
                                 No puedes elegir la fuente (tipo de letra) dentro del documento.
                                 No puedes alinear un parrafo a la derecha o justificarlo de forma nativa.
-                                Si necesitas un diseño muy especifico y milimetrico para una revista o folleto, Markdown se                                   queda muy corto.
+                                Si necesitas un diseño muy especifico y milimetrico para una revista o folleto, Markdown se queda muy corto.
 
 Gestion compleja de archivos multimedia: Insertar una imagen en Markdown no es tan simple como arrastrar y soltar.
                                          Markdown solo guarda una ruta o enlace de la imagen.
-                                         Si mueves la imagen de carpeta o le cambias el nombre en tu ordenador, el enlace se                                           rompe y la imagen desaparece del documento.
+                                         Si mueves la imagen de carpeta o le cambias el nombre en tu ordenador, el enlace se rompe y la imagen desaparece del documento.
 
 ## Que son los cerebros digitales
 Un cerebro digital es un sistema externo de gestion del conocimiento. Basicamente , es una extension de tu memoria biologica creada mediante herramienta digitales para almacenar, organizar y conectar ideas de forma que nunca lo olvides.
