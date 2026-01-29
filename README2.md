@@ -193,3 +193,97 @@ La **Calculadora Inazuma Eleven** es más que una simple herramienta matemática
 ---
 
 **¿Necesitas ayuda?** Simplemente introduce tus números, selecciona tu técnica especial favorita, ¡y deja que la calculadora haga el resto!
+
+---
+
+## 📝 Tareas Pendientes
+
+### Mejoras Futuras 🚀
+
+- [ ] **Añadir más operaciones matemáticas avanzadas**
+  - Potencias y raíces cuadradas
+  - Operaciones con porcentajes
+  - Funciones trigonométricas básicas
+
+- [ ] **Implementar historial de cálculos**
+  - Guardar los últimos 10 cálculos realizados
+  - Permitir recuperar operaciones anteriores
+  - Opción de exportar historial
+
+- [ ] **Agregar efectos de sonido temáticos**
+  - Sonidos de las técnicas especiales al calcular
+  - Música de fondo opcional del anime
+  - Efectos de gol para resultados correctos
+
+- [ ] **Modo de práctica educativa**
+  - Ejercicios aleatorios generados automáticamente
+  - Sistema de puntuación y logros
+  - Niveles de dificultad progresiva
+
+- [ ] **Personalización de personajes**
+  - Seleccionar diferentes equipos del anime
+  - Cambiar los nombres de las técnicas especiales
+  - Temas de color alternativos
+
+- [ ] **Modo multijugador**
+  - Competencias de cálculo rápido entre dos jugadores
+  - Tabla de clasificación
+  - Desafíos matemáticos cronometrados
+
+- [ ] **Versión móvil optimizada**
+  - Mejorar la interfaz táctil
+  - Soporte para modo horizontal
+  - App nativa para iOS y Android
+
+- [ ] **Accesibilidad mejorada**
+  - Soporte para lectores de pantalla
+  - Modo de alto contraste
+  - Atajos de teclado personalizables
+
+- [ ] **Integración con plataformas educativas**
+  - Exportar resultados a Google Classroom
+  - Sincronización con sistemas LMS
+  - Reportes de progreso para profesores
+
+- [ ] **Modo científico**
+  - Calculadora científica completa temática
+  - Conversión de unidades
+  - Constantes matemáticas y físicas
+
+---
+
+## 💾 Curiosidad Técnica: El Microprocesador 6502
+
+![Microprocesador 6502](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MOS_6502AD_4585_top.jpg/800px-MOS_6502AD_4585_top.jpg)
+
+### ¿Por qué el 6502? 🤔
+
+El **MOS Technology 6502** es un microprocesador de 8 bits que revolucionó la informática en los años 70 y 80. Aunque pueda parecer extraño incluirlo en un manual de una calculadora moderna, existe una conexión educativa importante:
+
+#### 🎮 Legado en la Historia de los Videojuegos
+- Fue el cerebro de consolas legendarias como la **NES** (Nintendo Entertainment System)
+- Permitió la creación de los primeros videojuegos que inspiraron generaciones
+- Su simplicidad lo hace perfecto para enseñar conceptos de programación
+
+#### 🧮 Relación con las Calculadoras
+- Las primeras calculadoras programables usaban arquitecturas similares
+- Procesaba operaciones matemáticas de forma secuencial, como nuestra calculadora
+- Su diseño eficiente es un ejemplo de cómo hacer más con menos recursos
+
+#### 📚 Valor Educativo
+- Entender procesadores antiguos ayuda a apreciar la tecnología actual
+- El 6502 es ideal para aprender ensamblador y lógica digital
+- Demuestra que la innovación no siempre requiere la tecnología más avanzada
+
+#### 🔧 Especificaciones Técnicas
+- **Velocidad**: 1-3 MHz
+- **Arquitectura**: 8 bits
+- **Transistores**: Aproximadamente 3,510
+- **Año de lanzamiento**: 1975
+- **Precio original**: $25 USD (revolucionariamente barato para su época)
+
+**Moraleja**: Al igual que el 6502 demostró que la simplicidad y eficiencia pueden cambiar el mundo, nuestra Calculadora Inazuma Eleven muestra que el aprendizaje puede ser divertido y efectivo sin necesidad de complicaciones innecesarias. ⚡
+
+---
+
+*Última actualización: 29 de enero de 2026*
